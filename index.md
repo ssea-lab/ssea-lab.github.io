@@ -1,8 +1,11 @@
 ## Research Interests
 ```
-- Service-oriented Software Engineering
-- Empirical Software Engineering
+- **Service-oriented Software Engineering**
+- **Empirical Software Engineering**
+- **Domain-specific Intelligent Application of Software Services** 
 ```
+
+## Members
 
 You can use the [editor on GitHub](https://github.com/ssea-lab/ssea-lab.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
