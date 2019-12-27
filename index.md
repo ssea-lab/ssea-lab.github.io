@@ -10,19 +10,30 @@ We mainly focus on the practice and application of software engineering, especia
 ## Members
 To add.
 
-## Selected Research Funds
+## Research Funds
 
 Our studies have been supported by the National Basic Research Program of China (973 Program), the National High-tech R&D Program (863 Program), the National Key R&D Program of China, the Natural Science Foundation of China (NSFC), and many other research funds.
 ``` 
-1. Major Program of NSFC under Grant No. 61832014, 2019/01~2023/12, Sub-project PI: Bing Li 
-2. National Key R&D Program under Grant No. 2018YFB1003800, 2018/10~2021/09, Sub-project PI: Yangfan He
-3. National Key R&D Program under Grant No. 2017YFB1400602, 2017/12~2020/11, PI: Bing Li
-4. 973 Program under Grant No. 2014CB340400, 2014/01~2018/12, Sub-project PI: Yutao Ma
-5. National Sci-Tech Support Program under Grant No. 2012BAH07B01, 2012/01~2014/12, Sub-project PI: Jian Wang
-6. 973 Program under Grant No. 2007CB310801, 2007/07~2011/08, PI: Keqing He
-7. 863 Program under Grant No. 2006AA04Z156, 2006/12~2009/12, PI: Bing Li
-8. 973 Program under Grant No. 2006CB708302, 2006/11~2008/12, PI: Keqing He
+- Major Program of NSFC under Grant No. 61832014, 2019/01~2023/12, Sub-project PI: Bing Li 
+- National Key R&D Program under Grant No. 2018YFB1003800, 2018/10~2021/09, Sub-project PI: Yangfan He
+- National Key R&D Program under Grant No. 2017YFB1400602, 2017/12~2020/11, PI: Bing Li
+- 973 Program under Grant No. 2014CB340400, 2014/01~2018/12, Sub-project PI: Yutao Ma
+- National Sci-Tech Support Program under Grant No. 2012BAH07B01, 2012/01~2014/12, Sub-project PI: Jian Wang
+- 973 Program under Grant No. 2007CB310801, 2007/07~2011/08, PI: Keqing He
+- 863 Program under Grant No. 2006AA04Z156, 2006/12~2009/12, PI: Bing Li
+- 973 Program under Grant No. 2006CB708302, 2006/11~2008/12, PI: Keqing He
 ```
+
+## Awards
+
+We have received a few international and domestic awards or prizes.
+``` 
+- 
+- First Prize of Scientific and Technological Progress, China Computer Federation, 2014
+- Second Prize of State Scientific and Technological Progress, P.R. China, 2009
+- First Prize of Scientific and Technological Progress, Hubei Province, 2008, 2011, 2015
+- First Prize of Natural Science, the Ministry of Education of China, 2007
+``` 
 You can use the [editor on GitHub](https://github.com/ssea-lab/ssea-lab.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
