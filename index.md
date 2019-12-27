@@ -12,7 +12,7 @@ To add.
 
 ## Research Funds
 
-Our studies have been supported by the National Basic Research Program of China (973 Program), the National High-tech R&D Program (863 Program), the National Key R&D Program of China, the Natural Science Foundation of China (NSFC), and many other research funds.
+Our studies have been supported by the National Basic Research Program of China (973 Program), the National High-tech R&D Program (863 Program), the National Key R&D Program of China, the Natural Science Foundation of China (NSFC), and many other research funds. Selected research funds include:
 ``` 
 - Major Program of NSFC under Grant No. 61832014, 2019/01~2023/12, Sub-project PI: Bing Li 
 - National Key R&D Program under Grant No. 2018YFB1003800, 2018/10~2021/09, Sub-project PI: Yangfan He
@@ -26,11 +26,14 @@ Our studies have been supported by the National Basic Research Program of China 
 
 ## Awards
 
-We have received a few international and domestic awards or prizes.
+We have received a few notable international and domestic awards or prizes, including
 ``` 
 - First Prize of Invention and Entrepreneurship, China Association of Inventions, 2018
+- Best Paper Award, International Conference on Software Engineering and Knowledge Engineering, 2016
+- Certificate of Appreciation for the Development of International Standard ISO/IEC 19763, ISO and IEC, 2015
 - First Prize of Scientific and Technological Progress, China Computer Federation, 2014
 - Second Prize of State Scientific and Technological Progress, P.R. China, 2009
+- Outstanding Doctoral Dissertation Award, Hubei Province, 2009
 - First Prize of Scientific and Technological Progress, Hubei Province, 2008, 2011, 2015
 - First Prize of Natural Science, the Ministry of Education of China, 2007
 ``` 
@@ -38,10 +41,6 @@ We have received a few international and domestic awards or prizes.
 You can use the [editor on GitHub](https://github.com/ssea-lab/ssea-lab.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
@@ -62,10 +61,6 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ssea-lab/ssea-lab.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
