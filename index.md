@@ -28,12 +28,13 @@ Our studies have been supported by the National Basic Research Program of China 
 
 We have received a few international and domestic awards or prizes.
 ``` 
-- 
+- First Prize of Invention and Entrepreneurship, China Association of Inventions, 2018
 - First Prize of Scientific and Technological Progress, China Computer Federation, 2014
 - Second Prize of State Scientific and Technological Progress, P.R. China, 2009
 - First Prize of Scientific and Technological Progress, Hubei Province, 2008, 2011, 2015
 - First Prize of Natural Science, the Ministry of Education of China, 2007
 ``` 
+
 You can use the [editor on GitHub](https://github.com/ssea-lab/ssea-lab.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
