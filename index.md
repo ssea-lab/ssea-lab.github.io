@@ -12,7 +12,7 @@ To add.
 
 ## Selected Research Funds
 
-Our studies have been supported by the National Basic Research Program of China (973 Program), the National High-tech R&D Program (863 Program), the National Key R&D Program of China, the Natural Science Foundation of China （NSFC）, and many other research funds.
+Our studies have been supported by the National Basic Research Program of China (973 Program), the National High-tech R&D Program (863 Program), the National Key R&D Program of China, the Natural Science Foundation of China (NSFC), and many other research funds.
 ``` 
 1. Major Program of NSFC under Grant No. 61832014, 2019/01~2023/12, Sub-project PI: Bing Li 
 2. National Key R&D Program under Grant No. 2018YFB1003800, 2018/10~2021/09, Sub-project PI: Yangfan He
