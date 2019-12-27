@@ -38,9 +38,16 @@ We have received a few notable international and domestic awards or prizes, incl
 - First Prize of Natural Science, the Ministry of Education of China, 2007
 ``` 
 
-You can use the [editor on GitHub](https://github.com/ssea-lab/ssea-lab.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Publications
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Monographs
+``` 
+- Keqing He, Yangfan He, Chong Wang, Peng Liang, and Jin Liu. Ontology-based Meta-modeling and its applications. Beijing: Science Press, 2008.
+- Keqing He, Rong Peng, Wei Liu, Jian Wang, and Bing Li. Networked Software. Beijing: Science Press, 2008.
+- Keqing He, Yutao Ma, Jing Liu, Bing Li, and Rong Peng. Software Netowrk. Beijing: Science Press, 2008.
+``` 
+
+### International Standards
 
 ```markdown
 Syntax highlighted code block
