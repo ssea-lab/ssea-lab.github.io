@@ -1,14 +1,17 @@
 ## Research Interests
 
-- Service-oriented Software Engineering
-- Empirical Software Engineering
-- Domain-specific Application of Intelligent Software Services
+We focus on the practice and application of software engineeing, especially on the following research interests:
+
+1. Service-oriented Software Engineering
+2. Empirical Software Engineering
+3. Domain-specific Application of Intelligent Software Services
 
 ## Members
 
 
-## Selected 
+## Selected Research Funds
 
+Our research 
 You can use the [editor on GitHub](https://github.com/ssea-lab/ssea-lab.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
