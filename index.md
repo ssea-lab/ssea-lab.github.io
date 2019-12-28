@@ -45,7 +45,7 @@ We have received a few notable international and domestic awards or prizes, incl
 
 ### Technical Standards
 
-**ISO Standards**
+**_ISO Standards_**
 
 1. Keqing He and Yangfan He. Information technology — Metamodel framework for interoperability (MFI) — Part 3: Metamodel for ontology registration, [ISO/IEC 19763-3:2010](https://www.iso.org/standard/52069.html), 2010.
 2. Keqing He and Chong Wang. Information technology — Metamodel framework for interoperability (MFI) — Part 5: Metamodel for process model registration, [ISO/IEC 19763-5:2015](https://www.iso.org/standard/53761.html), 2015.
@@ -53,7 +53,7 @@ We have received a few notable international and domestic awards or prizes, incl
 4. Keqing He and Fei He. Information technology — Metamodel framework for interoperability (MFI) — Part 8: Metamodel for role and goal model registration, [ISO/IEC 19763-8:2015](https://www.iso.org/standard/56079.html), 2015.
 5. Keqing He and Jian Wang. Information technology — Metamodel framework for interoperability (MFI) — Part 9: On demand model selection, [ISO/IEC TR 19763-9:2015](https://www.iso.org/standard/56080.html), 2015.
 
-**National Standards**
+**_National Standards_**
 
 1. Keqing He, Yangfan He, Chong Wang, Jian Wang, and Jing Wang. Information technology — Metamodel framework for interoperability (MFI) — Part 1: Reference model (in Chinese), [GB/T 32392.1-2015](http://std.samr.gov.cn/gb/search/gbDetailed?id=71F772D80C90D3A7E05397BE0A0AB82A), 2015.
 2. Keqing He, Yangfan He, Chong Wang, Jian Wang, and Jing Wang. Information technology — Metamodel framework for interoperability (MFI) — Part 2: Core model (in Chinese), [GB/T 32392.2-2015](http://std.samr.gov.cn/gb/search/gbDetailed?id=71F772D80C93D3A7E05397BE0A0AB82A), 2015.
@@ -75,7 +75,6 @@ We have received a few notable international and domestic awards or prizes, incl
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
