@@ -1,11 +1,10 @@
 ## Research Interests
 
 We mainly focus on the practice and application of software engineering, especially on the following research interests:
-```
+
 - Service-oriented Software Engineering
 - Empirical Software Engineering
 - Domain-specific Application of Intelligent Software Services
-```
 
 ## Members
 To add.
