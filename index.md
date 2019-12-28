@@ -35,19 +35,18 @@ We have received a few notable international and domestic awards or prizes, incl
 - First Prize of Scientific and Technological Progress, Hubei Province, 2008, 2011, 2015
 - First Prize of Natural Science, the Ministry of Education of China, 2007
 
-## Publications
+## Selected Publications
 
 ### Monographs
-``` 
-- Keqing He, Yangfan He, Chong Wang, Peng Liang, and Jin Liu. Ontology-based Meta-modeling and its applications. Beijing: Science Press, 2008.
-- Keqing He, Rong Peng, Wei Liu, Jian Wang, and Bing Li. Networked Software. Beijing: Science Press, 2008.
-- Keqing He, Yutao Ma, Jing Liu, Bing Li, and Rong Peng. Software Netowrk. Beijing: Science Press, 2008.
-``` 
+
+1. Keqing He, Yangfan He, Chong Wang, Peng Liang, and Jin Liu. Ontology-based Meta-modeling and its applications. Beijing: Science Press, 2008.
+2. Keqing He, Rong Peng, Wei Liu, Jian Wang, and Bing Li. Networked Software. Beijing: Science Press, 2008.
+3. Keqing He, Yutao Ma, Jing Liu, Bing Li, and Rong Peng. Software Netowrk. Beijing: Science Press, 2008.
 
 ### International Standards
 
-```markdown
-Syntax highlighted code block
+1. Keqing He and Yangfan He. Information technology — Metamodel framework for interoperability (MFI) — Part 3: Metamodel for ontology registration, [ISO/IEC 19763-3:2010](https://www.iso.org/standard/52069.html), 2010.
+2. Keqing He and Chong Wang. Information technology — Metamodel framework for interoperability (MFI) — Part 5: Metamodel for process model registration, [ISO/IEC 19763-5:2015](https://www.iso.org/standard/53761.html), 2015.
 
 # Header 1
 ## Header 2
