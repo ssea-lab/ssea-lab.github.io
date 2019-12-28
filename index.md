@@ -91,12 +91,10 @@ We have received a few notable international and domestic awards or prizes, incl
 
 **_Conference_**
 
+1. Chong Wang, Pengwei Cui, Maya Daneva, and Mohamad Kassab. [Understanding what industry wants from requirements engineers: an exploration of RE jobs in Canada](https://dl.acm.org/citation.cfm?id=3268916). In Proceedings of the 2018 ACM/IEEE ESEM, pp. 41:1-41:10, 2018.
+2. Ruibin Xiong, Jian Wang, Zhongqiao Li, Bing Li, and Patrick C. K. Hung. [Personalized LSTM Based Matrix Factorization for Online QoS Prediction](https://ieeexplore.ieee.org/document/8456329). In Proceedings of the 2018 IEEE ICWS, pp. 34-41, 2018.
+3. Wei Xiong, Zhao Wu, Bing Li, and Qiong Gu. [A Learning Approach to QoS Prediction via Multi-Dimensional Context](https://ieeexplore.ieee.org/document/8029758). In Proceedings of the 2017 IEEE ICWS, pp. 164-171, 2017.
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Support or Contact
 
