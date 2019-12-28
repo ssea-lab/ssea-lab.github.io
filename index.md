@@ -47,6 +47,9 @@ We have received a few notable international and domestic awards or prizes, incl
 
 1. Keqing He and Yangfan He. Information technology — Metamodel framework for interoperability (MFI) — Part 3: Metamodel for ontology registration, [ISO/IEC 19763-3:2010](https://www.iso.org/standard/52069.html), 2010.
 2. Keqing He and Chong Wang. Information technology — Metamodel framework for interoperability (MFI) — Part 5: Metamodel for process model registration, [ISO/IEC 19763-5:2015](https://www.iso.org/standard/53761.html), 2015.
+3. Keqing He and Zaiwen Feng. Information technology — Metamodel framework for interoperability (MFI) — Part 7: Metamodel for service model registration, [ISO/IEC 19763-7:2015](https://www.iso.org/standard/55025.html), 2015.
+4. Keqing He and Fei He. Information technology — Metamodel framework for interoperability (MFI) — Part 8: Metamodel for role and goal model registration, [ISO/IEC 19763-8:2015](https://www.iso.org/standard/56079.html), 2015.
+5. Keqing He and Jian Wang. Information technology — Metamodel framework for interoperability (MFI) — Part 9: On demand model selection, [ISO/IEC TR 19763-9:2015](https://www.iso.org/standard/56080.html), 2015.
 
 # Header 1
 ## Header 2
