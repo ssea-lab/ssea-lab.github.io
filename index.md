@@ -52,6 +52,12 @@ We have received a few notable international and domestic awards or prizes, incl
 4. Keqing He and Fei He. Information technology — Metamodel framework for interoperability (MFI) — Part 8: Metamodel for role and goal model registration, [ISO/IEC 19763-8:2015](https://www.iso.org/standard/56079.html), 2015.
 5. Keqing He and Jian Wang. Information technology — Metamodel framework for interoperability (MFI) — Part 9: On demand model selection, [ISO/IEC TR 19763-9:2015](https://www.iso.org/standard/56080.html), 2015.
 
+**National Standards**
+1. Keqing He, Yangfan He, Chong Wang, Jian Wang, and Jing Wang. Information technology — Metamodel framework for interoperability (MFI) — Part 1: Reference model (in Chinese), [GB/T 32392.1-2015](http://std.samr.gov.cn/gb/search/gbDetailed?id=71F772D80C90D3A7E05397BE0A0AB82A), 2015.
+2. Keqing He, Yangfan He, Chong Wang, Jian Wang, and Jing Wang. Information technology — Metamodel framework for interoperability (MFI) — Part 2: Core model (in Chinese), [GB/T 32392.2-2015](http://std.samr.gov.cn/gb/search/gbDetailed?id=71F772D80C93D3A7E05397BE0A0AB82A), 2015.
+3. Keqing He, Yangfan He, Chong Wang, Jian Wang, and Jing Wang. Information technology — Metamodel framework for interoperability (MFI) — Part 3: Metamodel for ontology registration (in Chinese), [GB/T 32392.3-2015](http://std.samr.gov.cn/gb/search/gbDetailed?id=71F772D80CF3D3A7E05397BE0A0AB82A), 2015.
+4. Keqing He, Yangfan He, Chong Wang, Jian Wang, and Jing Wang. Information technology — Metamodel framework for interoperability(MFI) — Part 4: Metamodel for model mapping (in Chinese), [GB/T 32392.4-2015](http://std.samr.gov.cn/gb/search/gbDetailed?id=71F772D80D0CD3A7E05397BE0A0AB82A), 2015.
+
 # Header 1
 ## Header 2
 ### Header 3
