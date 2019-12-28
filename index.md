@@ -68,9 +68,12 @@ We have received a few notable international and domestic awards or prizes, incl
 
 **_Journal_**
 
-1. Neng Zhang, Jian Wang, Keqing He, Zheng Li, Yiwang Huang. [Mining and clustering service goals for RESTful service discovery](https://link.springer.com/article/10.1007/s10115-018-1171-4). Knowledge and Information Systems, 2019, 58(3): 669-700.
-2. Neng Zhang, Jian Wang, Yutao Ma, Keqing He, Zheng Li, Xiaoqing (Frank) Liu. [Web service discovery based on goal-oriented query expansion](https://www.sciencedirect.com/science/article/pii/S0164121218300748). Journal of Systems and Software, 2018, 142: 73-91.
-3. Zaiwen Feng, Dickson K. W. Chiu, Rong Peng, Ping Gong, Keqing He, Yiwang Huang. [Facilitating Cloud Process Family Co-Evolution by Reusable Process Plug-in: An Open-source Prototype](https://ieeexplore.ieee.org/document/7345590). IEEE Transactions on Services Computing, 2017, 10(6): 854-867.
+1. Neng Zhang, Jian Wang, Keqing He, Zheng Li, and Yiwang Huang. [Mining and clustering service goals for RESTful service discovery](https://link.springer.com/article/10.1007/s10115-018-1171-4). Knowledge and Information Systems, 2019, 58(3): 669-700.
+2. Neng Zhang, Jian Wang, Yutao Ma, Keqing He, Zheng Li, and Xiaoqing (Frank) Liu. [Web service discovery based on goal-oriented query expansion](https://www.sciencedirect.com/science/article/pii/S0164121218300748). Journal of Systems and Software, 2018, 142: 73-91.
+3. Hongrun Wu, Haiyang Liu, and Yutao Ma. [Empirical study on developer factors affecting tossing path length of bug reports](https://ieeexplore.ieee.org/document/8371790). IET Software, 2018, 12(3): 258-270.
+4. Zaiwen Feng, Dickson K. W. Chiu, Rong Peng, Ping Gong, Keqing He, and Yiwang Huang. [Facilitating Cloud Process Family Co-Evolution by Reusable Process Plug-in: An Open-source Prototype](https://ieeexplore.ieee.org/document/7345590). IEEE Transactions on Services Computing, 2017, 10(6): 854-867.
+5. Jianxiao Liu, Keqing He, Jian Wang, Feng Liu, and Xiaoxia Li. [Service organization and recommendation using multi-granularity approach](https://www.sciencedirect.com/science/article/pii/S0950705114003694). Knowledge-Based Systems, 2015, 73: 181-198.
+
 
 **Bold** and _Italic_ and `Code` text
 
