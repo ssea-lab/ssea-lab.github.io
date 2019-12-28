@@ -41,7 +41,7 @@ We have received a few notable international and domestic awards or prizes, incl
 
 1. Keqing He, Yangfan He, Chong Wang, Peng Liang, and Jin Liu. Ontology-based Meta-modeling and its applications. Beijing: Science Press, 2008.
 2. Keqing He, Rong Peng, Wei Liu, Jian Wang, and Bing Li. Networked Software. Beijing: Science Press, 2008.
-3. Keqing He, Yutao Ma, Jing Liu, Bing Li, and Rong Peng. Software Netowrk. Beijing: Science Press, 2008.
+3. Keqing He, Yutao Ma, Jing Liu, Bing Li, and Rong Peng. Software Network. Beijing: Science Press, 2008.
 
 ### Technical Standards
 
@@ -68,11 +68,16 @@ We have received a few notable international and domestic awards or prizes, incl
 
 **_Journal_**
 
-1. Neng Zhang, Jian Wang, Keqing He, Zheng Li, and Yiwang Huang. [Mining and clustering service goals for RESTful service discovery](https://link.springer.com/article/10.1007/s10115-018-1171-4). Knowledge and Information Systems, 2019, 58(3): 669-700.
-2. Neng Zhang, Jian Wang, Yutao Ma, Keqing He, Zheng Li, and Xiaoqing (Frank) Liu. [Web service discovery based on goal-oriented query expansion](https://www.sciencedirect.com/science/article/pii/S0164121218300748). Journal of Systems and Software, 2018, 142: 73-91.
-3. Hongrun Wu, Haiyang Liu, and Yutao Ma. [Empirical study on developer factors affecting tossing path length of bug reports](https://ieeexplore.ieee.org/document/8371790). IET Software, 2018, 12(3): 258-270.
-4. Zaiwen Feng, Dickson K. W. Chiu, Rong Peng, Ping Gong, Keqing He, and Yiwang Huang. [Facilitating Cloud Process Family Co-Evolution by Reusable Process Plug-in: An Open-source Prototype](https://ieeexplore.ieee.org/document/7345590). IEEE Transactions on Services Computing, 2017, 10(6): 854-867.
-5. Jianxiao Liu, Keqing He, Jian Wang, Feng Liu, and Xiaoxia Li. [Service organization and recommendation using multi-granularity approach](https://www.sciencedirect.com/science/article/pii/S0950705114003694). Knowledge-Based Systems, 2015, 73: 181-198.
+1. Chong Wang, Maya Daneva, Marten van Sinderen, and Peng Liang. [A systematic mapping study on crowdsourced requirements engineering using user feedback](https://onlinelibrary.wiley.com/doi/10.1002/smr.2199). Journal of Software: Evolution and Process, 2019, 31(10): e2199.
+2. Neng Zhang, Jian Wang, Keqing He, Zheng Li, and Yiwang Huang. [Mining and clustering service goals for RESTful service discovery](https://link.springer.com/article/10.1007/s10115-018-1171-4). Knowledge and Information Systems, 2019, 58(3): 669-700.
+3. Yutao Ma, Tao Xu, Xiaolei Huang, Xiaofang Wang, Canyu Li, Jason Jerwick, Yuan Ning, Xianxu Zeng, Baojin Wang, Yihong Wang, Zhan Zhang, Xiaoan Zhang, and Chao Zhou. [Computer-Aided Diagnosis of Label-Free 3-D Optical Coherence Microscopy Images of Human Cervical Tissue](https://ieeexplore.ieee.org/document/8598821). IEEE Transactions on Biomedical Engineering, 2019, 66(9): 2447-2456.
+4. Neng Zhang, Jian Wang, Yutao Ma, Keqing He, Zheng Li, and Xiaoqing (Frank) Liu. [Web service discovery based on goal-oriented query expansion](https://www.sciencedirect.com/science/article/pii/S0164121218300748). Journal of Systems and Software, 2018, 142: 73-91.
+5. Hongrun Wu, Haiyang Liu, and Yutao Ma. [Empirical study on developer factors affecting tossing path length of bug reports](https://ieeexplore.ieee.org/document/8371790). IET Software, 2018, 12(3): 258-270.
+6. Ruibin Xiong, Jian Wang, Neng Zhang, and Yutao Ma. [Deep hybrid collaborative filtering for Web service recommendation](https://www.sciencedirect.com/science/article/pii/S0957417418303385). Expert Systems with Applications, 2018, 110: 191-205.
+7. Zaiwen Feng, Dickson K. W. Chiu, Rong Peng, Ping Gong, Keqing He, and Yiwang Huang. [Facilitating Cloud Process Family Co-Evolution by Reusable Process Plug-in: An Open-source Prototype](https://ieeexplore.ieee.org/document/7345590). IEEE Transactions on Services Computing, 2017, 10(6): 854-867.
+8. Jianxiao Liu, Keqing He, Jian Wang, Feng Liu, and Xiaoxia Li. [Service organization and recommendation using multi-granularity approach](https://www.sciencedirect.com/science/article/pii/S0950705114003694). Knowledge-Based Systems, 2015, 73: 181-198.
+9. Peng He, Bing Li, Xiao Liu, Jun Chen, and Yutao Ma. [An empirical study on software defect prediction with a simplified metric set](https://www.sciencedirect.com/science/article/abs/pii/S0950584914002523). Information and Software Technology, 2015, 59: 170-190.
+10. Keqing He, Jian Wang, and Peng Liang. [Semantic Interoperability Aggregation in Service Requirements Refinement](http://jcst.ict.ac.cn/EN/abstract/abstract1698.shtml). Journal of Computer Science and Technology, 2010, 25(6): 1103-1117.
 
 
 **Bold** and _Italic_ and `Code` text
