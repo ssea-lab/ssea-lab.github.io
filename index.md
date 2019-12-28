@@ -64,13 +64,13 @@ We have received a few notable international and domestic awards or prizes, incl
 7. Keqing He, Fei He, Chong Wang, Jian Wang, Zaiwen Feng, Jing Wang, and Bo Hu. Information technology — Metamodel framework for interoperability (MFI) — Part 8: Metamodel for role and goal model registration (in Chinese), [GB/T 32392.8-2018](http://std.samr.gov.cn/gb/search/gbDetailed?id=71F772D82CD6D3A7E05397BE0A0AB82A), 2018.
 8. Keqing He, Jian Wang, Chong Wang, Zaiwen Feng, Fei He, Jing Wang, and Bo Hu. Information technology — Metamodel framework for interoperability (MFI) — Part 9: On demand model selection (in Chinese), [GB/T 32392.9-2018](http://std.samr.gov.cn/gb/search/gbDetailed?id=71F772D827A9D3A7E05397BE0A0AB82A), 2018.
 
-### Refereed Papers
+### Refereed Papers (Since 2000)
 
-- Bulleted
-- List
+**_Journal_**
 
-1. Numbered
-2. List
+1. Neng Zhang, Jian Wang, Keqing He, Zheng Li, Yiwang Huang. [Mining and clustering service goals for RESTful service discovery](https://link.springer.com/article/10.1007/s10115-018-1171-4). Knowledge and Information Systems, 2019, 58(3): 669-700.
+2. Neng Zhang, Jian Wang, Yutao Ma, Keqing He, Zheng Li, Xiaoqing (Frank) Liu. [Web service discovery based on goal-oriented query expansion](https://www.sciencedirect.com/science/article/pii/S0164121218300748). Journal of Systems and Software, 2018, 142: 73-91.
+3. Zaiwen Feng, Dickson K. W. Chiu, Rong Peng, Ping Gong, Keqing He, Yiwang Huang. [Facilitating Cloud Process Family Co-Evolution by Reusable Process Plug-in: An Open-source Prototype](https://ieeexplore.ieee.org/document/7345590). IEEE Transactions on Services Computing, 2017, 10(6): 854-867.
 
 **Bold** and _Italic_ and `Code` text
 
