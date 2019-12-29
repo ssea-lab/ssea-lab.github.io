@@ -11,7 +11,7 @@ To add.
 
 ## Research Funds
 
-Our studies have been supported by the National Basic Research Program of China (973 Program), the National High-tech R&D Program (863 Program), the National Key R&D Program of China, the Natural Science Foundation of China (NSFC), and many other research funds. Selected research funds include:
+`Our studies have been supported by the National Basic Research Program of China (973 Program), the National High-tech R&D Program (863 Program), the National Key R&D Program of China, the Natural Science Foundation of China (NSFC), and many other research funds. Selected research funds include:`
 
 - Major Program of NSFC under Grant No. 61832014, 2019/01~2023/12, Sub-project PI: Bing Li 
 - National Key R&D Program under Grant No. 2018YFB1003800, 2018/10~2021/09, Sub-project PI: Yangfan He
@@ -45,7 +45,7 @@ We have received a few notable international and domestic awards or prizes, incl
 
 ### Technical Standards
 
-**_ISO Standards_**
+#### ISO Standards
 
 1. Keqing He and Yangfan He. Information technology — Metamodel framework for interoperability (MFI) — Part 3: Metamodel for ontology registration, [ISO/IEC 19763-3:2010](https://www.iso.org/standard/52069.html), 2010.
 2. Keqing He and Chong Wang. Information technology — Metamodel framework for interoperability (MFI) — Part 5: Metamodel for process model registration, [ISO/IEC 19763-5:2015](https://www.iso.org/standard/53761.html), 2015.
@@ -53,7 +53,7 @@ We have received a few notable international and domestic awards or prizes, incl
 4. Keqing He and Fei He. Information technology — Metamodel framework for interoperability (MFI) — Part 8: Metamodel for role and goal model registration, [ISO/IEC 19763-8:2015](https://www.iso.org/standard/56079.html), 2015.
 5. Keqing He and Jian Wang. Information technology — Metamodel framework for interoperability (MFI) — Part 9: On demand model selection, [ISO/IEC TR 19763-9:2015](https://www.iso.org/standard/56080.html), 2015.
 
-**_National Standards_**
+#### National Standards
 
 1. Keqing He, Yangfan He, Chong Wang, Jian Wang, and Jing Wang. Information technology — Metamodel framework for interoperability (MFI) — Part 1: Reference model (in Chinese), [GB/T 32392.1-2015](http://std.samr.gov.cn/gb/search/gbDetailed?id=71F772D80C90D3A7E05397BE0A0AB82A), 2015.
 2. Keqing He, Yangfan He, Chong Wang, Jian Wang, and Jing Wang. Information technology — Metamodel framework for interoperability (MFI) — Part 2: Core model (in Chinese), [GB/T 32392.2-2015](http://std.samr.gov.cn/gb/search/gbDetailed?id=71F772D80C93D3A7E05397BE0A0AB82A), 2015.
@@ -66,7 +66,7 @@ We have received a few notable international and domestic awards or prizes, incl
 
 ### Refereed Papers (Since 2000)
 
-**_Journal_**
+#### Journal
 
 1. Weifeng Pan, Hua Ming, Carl Chang, Zijiang Yang, and Dae-Kyoo Kim. [ElementRank: Ranking Java Software Classes and Packages using a Multilayer Complex Network-Based Approach](https://ieeexplore.ieee.org/document/8862895). IEEE Transactions on Software Engineering, Online publication, 2019.
 2. Chong Wang, Maya Daneva, Marten van Sinderen, and Peng Liang. [A systematic mapping study on crowdsourced requirements engineering using user feedback](https://onlinelibrary.wiley.com/doi/10.1002/smr.2199). Journal of Software: Evolution and Process, 2019, 31(10): e2199.
@@ -89,7 +89,7 @@ We have received a few notable international and domestic awards or prizes, incl
 19. Keqing He, Jian Wang, and Peng Liang. [Semantic Interoperability Aggregation in Service Requirements Refinement](http://jcst.ict.ac.cn/EN/abstract/abstract1698.shtml). Journal of Computer Science and Technology, 2010, 25(6): 1103-1117.
 20. Keqing He, Fei He, Bing Li, Yangfan He, Jin Liu, Peng Liang, and Chong Wang. [Research on Service-Oriented Ontology & Meta-Modeling Theory and Methodology](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFD2005&filename=JSJX200504009&uid=WEEvREcwSlJHSldRa1FhcEE0QVN2K0VEcmFqekdyMWFDdzNya1M3d242ND0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4IQMovwHtwkF4VYPoHbKxJw!!&v=MjcwMDBMejdCZHJHNEh0VE1xNDlGYllSOGVYMUx1eFlTN0RoMVQzcVRyV00xRnJDVVJMT2VaZVJuRnk3a1VMdks=) (in Chinese). Chinese Journal of Computers, 2005, 28(4): 524-533.
 
-**_Conference_**
+#### Conference
 
 1. Chong Wang, Pengwei Cui, Maya Daneva, and Mohamad Kassab. [Understanding what industry wants from requirements engineers: an exploration of RE jobs in Canada](https://dl.acm.org/citation.cfm?id=3268916). In Proceedings of the 2018 ACM/IEEE ESEM, pp. 41:1-41:10, 2018.
 2. Ruibin Xiong, Jian Wang, Zhongqiao Li, Bing Li, and Patrick C. K. Hung. [Personalized LSTM Based Matrix Factorization for Online QoS Prediction](https://ieeexplore.ieee.org/document/8456329). In Proceedings of the 2018 IEEE ICWS, pp. 34-41, 2018.
