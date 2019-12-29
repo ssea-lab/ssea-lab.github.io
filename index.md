@@ -22,8 +22,6 @@ Our studies have been supported by the National Basic Research Program of China 
 - 863 Program under Grant No. 2006AA04Z156, 2006/12~2009/12, PI: Bing Li
 - 973 Program under Grant No. 2006CB708302, 2006/11~2008/12, PI: Keqing He
 
-----
-
 ## Awards
 
 We have received a few notable international and domestic awards or prizes, including
@@ -36,8 +34,6 @@ We have received a few notable international and domestic awards or prizes, incl
 - Outstanding Doctoral Dissertation Award, Hubei Province, 2009
 - First Prize of Scientific and Technological Progress, Hubei Province, 2008, 2011, 2015
 - First Prize of Natural Science, the Ministry of Education of China, 2007
-
-----
 
 ## Selected Publications
 
@@ -97,7 +93,19 @@ We have received a few notable international and domestic awards or prizes, incl
 
 1. Chong Wang, Pengwei Cui, Maya Daneva, and Mohamad Kassab. [Understanding what industry wants from requirements engineers: an exploration of RE jobs in Canada](https://dl.acm.org/citation.cfm?id=3268916). In Proceedings of the 2018 ACM/IEEE ESEM, pp. 41:1-41:10, 2018.
 2. Ruibin Xiong, Jian Wang, Zhongqiao Li, Bing Li, and Patrick C. K. Hung. [Personalized LSTM Based Matrix Factorization for Online QoS Prediction](https://ieeexplore.ieee.org/document/8456329). In Proceedings of the 2018 IEEE ICWS, pp. 34-41, 2018.
-3. Wei Xiong, Zhao Wu, Bing Li, and Qiong Gu. [A Learning Approach to QoS Prediction via Multi-Dimensional Context](https://ieeexplore.ieee.org/document/8029758). In Proceedings of the 2017 IEEE ICWS, pp. 164-171, 2017.
+3. Yongrui Xu, Peng Liang, and Muhammad Ali Babar. [Automatically exploiting implicit design knowledge when solving the class responsibility assignment problem](https://ieeexplore.ieee.org/document/8330209). In Proceedings of the 25th IEEE SANER, pp. 197-209, 2018.
+4. Wei Xiong, Zhao Wu, Bing Li, and Qiong Gu. [A Learning Approach to QoS Prediction via Multi-Dimensional Context](https://ieeexplore.ieee.org/document/8029758). In Proceedings of the 2017 IEEE ICWS, pp. 164-171, 2017.
+5. Buqing Cao, Xiaoqing Frank Liu, Bing Li, Jianxun Liu, Mingdong Tang, Tingting Zhang, and Min Shi. [Mashup Service Clustering Based on an Integration of Service Content and Network via Exploiting a Two-Level Topic Model](https://ieeexplore.ieee.org/document/7558004). In Proceedings of the 2016 IEEE ICWS, pp. 212-219, 2016.
+6. Guoan You and Yutao Ma. [A Ranking-Oriented Approach to Cross-Project Software Defect Prediction: An Empirical Study](http://ksiresearchorg.ipage.com/seke/seke16paper/seke16paper_47.pdf). In Proceedings of the 28th SEKE, pp. 159-164, 2016. (**Best Paper Award**)
+7. Xiao He, Paris Avgeriou, Peng Liang, and Zengyang Li. [Technical debt in MDE: a case study on GMF/EMF-based projects](https://dl.acm.org/citation.cfm?id=2976806). In Proceedings of the 19th ACM/IEEE MoDELS, pp. 162-172, 2016.
+8. Jing Liu, Jiahao Li, and Lulu He. [A Comparative Study of the Effects of Pull Request on GitHub Projects](https://ieeexplore.ieee.org/document/7552027). In Proceedings of the 40th IEEE COMPSAC, pp. 313-322, 2016.
+9. Wei Xiong, Bing Li, Xiaohui Cui, Yutao Ma, Rong Yang, and Peng He. [A Learning Approach to the Prediction of Reliability Ranking for Web Services](https://ieeexplore.ieee.org/document/7195566). In Proceedings of the 2014 IEEE ICWS, pp. 169-176, 2015.
+10. Rong Yang, Bing Li, Jian Wang, Lulu He, and Xiaohui Cui. [SCKY: A Method for Reusing Service Process Fragments](https://ieeexplore.ieee.org/document/6928900). In Proceedings of the 2014 IEEE ICWS, pp. 209-216, 2014.
+11. Gang Tian, Jian Wang, Keqing He, Patrick C. K. Hung, and Chengai Sun. [Time-Aware Web Service Recommendations Using Implicit Feedback](https://ieeexplore.ieee.org/document/6928908). In Proceedings of the 2014 IEEE ICWS, pp. 273-280, 2014.
+12. Mojtaba Shahin, Peng Liang, and Zengyang Li. [Do architectural design decisions improve the understanding of software architecture? two controlled experiments](https://dl.acm.org/citation.cfm?doid=2597008.2597139). In Proceedings of the 22nd ICPC, pp. 3-13, 2014.
+13. Cheng Zeng, Zhou Lu, Jian Wang, Patrick C. K. Hung, and Jilei Tian. [Variable Granularity Index on Massive Service Processes](https://ieeexplore.ieee.org/document/6649557). In Proceedings of the 2013 IEEE ICWS, pp. 18-25, 2013.
+14. Bo Hu, Yutao Ma, Liang-Jie Zhang, Chunxiao Xing, Jun Zou, and Ping Xu. [A CCRA Based Mass Customization Development for Cloud Services](https://ieeexplore.ieee.org/document/6649760). In Proceedings of the 2013 IEEE SCC, pp. 705-712, 2013.
+15. Yutao Ma, Keqing He, Dehui Du, Jing Liu, and Yulan Yan. [A Complexity Metrics Set for Large-Scale Object-Oriented Software Systems](https://ieeexplore.ieee.org/document/4019967). In Proceedings of the 6th IEEE CIT, p. 189, 2006. (**Best Paper Award**)
 
 
 ### Support or Contact
