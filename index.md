@@ -11,7 +11,7 @@ To add.
 
 ## Research Funds
 
-`Our studies have been supported by the National Basic Research Program of China (973 Program), the National High-tech R&D Program (863 Program), the National Key R&D Program of China, the Natural Science Foundation of China (NSFC), and many other research funds. Selected research funds include:`
+Our studies have been supported by the National Basic Research Program of China (973 Program), the National High-tech R&D Program (863 Program), the National Key R&D Program of China, the Natural Science Foundation of China (NSFC), and many other research funds. Selected research funds include:
 
 - Major Program of NSFC under Grant No. 61832014, 2019/01~2023/12, Sub-project PI: Bing Li 
 - National Key R&D Program under Grant No. 2018YFB1003800, 2018/10~2021/09, Sub-project PI: Yangfan He
@@ -21,6 +21,8 @@ To add.
 - 973 Program under Grant No. 2007CB310801, 2007/07~2011/08, PI: Keqing He
 - 863 Program under Grant No. 2006AA04Z156, 2006/12~2009/12, PI: Bing Li
 - 973 Program under Grant No. 2006CB708302, 2006/11~2008/12, PI: Keqing He
+
+----
 
 ## Awards
 
@@ -34,6 +36,8 @@ We have received a few notable international and domestic awards or prizes, incl
 - Outstanding Doctoral Dissertation Award, Hubei Province, 2009
 - First Prize of Scientific and Technological Progress, Hubei Province, 2008, 2011, 2015
 - First Prize of Natural Science, the Ministry of Education of China, 2007
+
+----
 
 ## Selected Publications
 
