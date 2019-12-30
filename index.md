@@ -1,3 +1,7 @@
+## Brief Introduction to the SSEA
+
+The software service engineering and application (SSEA) laboratory was founded by Professor Keqing He and currently led by Professor Bing Li.  
+
 ## Research Interests
 
 We mainly focus on the practice and application of software engineering, especially on the following research interests:
