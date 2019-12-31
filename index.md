@@ -105,12 +105,12 @@ We have received a few notable international and domestic awards or prizes, incl
 12. Mojtaba Shahin, Peng Liang, and Zengyang Li. [Do architectural design decisions improve the understanding of software architecture? two controlled experiments](https://dl.acm.org/citation.cfm?doid=2597008.2597139). In Proceedings of the 22nd ICPC, pp. 3-13, 2014.
 13. Cheng Zeng, Zhou Lu, Jian Wang, Patrick C. K. Hung, and Jilei Tian. [Variable Granularity Index on Massive Service Processes](https://ieeexplore.ieee.org/document/6649557). In Proceedings of the 2013 IEEE ICWS, pp. 18-25, 2013.
 14. Bo Hu, Yutao Ma, Liang-Jie Zhang, Chunxiao Xing, Jun Zou, and Ping Xu. [A CCRA Based Mass Customization Development for Cloud Services](https://ieeexplore.ieee.org/document/6649760). In Proceedings of the 2013 IEEE SCC, pp. 705-712, 2013.
-15. Yutao Ma, Keqing He, Dehui Du, Jing Liu, and Yulan Yan. [A Complexity Metrics Set for Large-Scale Object-Oriented Software Systems](https://ieeexplore.ieee.org/document/4019967). In Proceedings of the 6th IEEE CIT, p. 189, 2006. (**Best Paper Award**)
+15. Yutao Ma, Keqing He, Dehui Du, Jing Liu, and Yulan Yan. [A Complexity Metrics Set for Large-Scale Object-Oriented Software Systems](https://ieeexplore.ieee.org/document/4019967). In Proceedings of the 6th IEEE CIT, pp. 189:1-189:6, 2006. (**Best Paper Award**)
 
 
 ### Contact
 
-Having trouble with Pages? Please [contact support](https://github.com/contact) and we’ll help you sort it out.
+Are you having trouble with Pages? Please [contact support](https://github.com/contact), and we’ll help you sort it out.
 
 
-`Last update: 2019-12-31`
+`Last update: 2019-12-31.`
