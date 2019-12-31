@@ -113,4 +113,4 @@ We have received a few notable international and domestic awards or prizes, incl
 Having trouble with Pages? Please [contact support](https://github.com/contact) and we’ll help you sort it out.
 
 
-`Last update: 2019-12-30`
+`Last update: 2019-12-31`
