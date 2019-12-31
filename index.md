@@ -1,10 +1,6 @@
-## Brief Introduction to the SSEA
+## Brief Introduction to the SSEA lab
 
-The software service engineering and application (SSEA) laboratory was founded by Professor Keqing He and is currently led by Professor Bing Li. This laboratory is an open, collaborative organization in the School of Computer Science at Wuhan University. 
-
-## Research Interests
-
-We mainly focus on the practice and application of software engineering, especially on the following research interests:
+The software service engineering and application (SSEA) laboratory was founded by Professor Keqing He and is currently led by Professor Bing Li. This laboratory is an open, collaborative organization in the School of Computer Science at Wuhan University. We mainly focus on the practice and application of software engineering, especially on the following research interests:
 
 - Service-oriented Software Engineering
 - Empirical Software Engineering
@@ -112,9 +108,9 @@ We have received a few notable international and domestic awards or prizes, incl
 15. Yutao Ma, Keqing He, Dehui Du, Jing Liu, and Yulan Yan. [A Complexity Metrics Set for Large-Scale Object-Oriented Software Systems](https://ieeexplore.ieee.org/document/4019967). In Proceedings of the 6th IEEE CIT, p. 189, 2006. (**Best Paper Award**)
 
 
-### Support or Contact
+### Contact
 
 Having trouble with Pages? Please [contact support](https://github.com/contact) and we’ll help you sort it out.
 
-#### Last update
-`2019-12-30`
+
+`Last update: 2019-12-30`
