@@ -1,17 +1,26 @@
 ## Brief Introduction to the SSEA lab
 
-The software service engineering and application (SSEA) laboratory was founded by Professor Keqing He and is currently led by Professor Bing Li. It is an open, collaborative laboratory in the School of Computer Science at Wuhan University. We mainly focus on the practice and application of software engineering, especially on the following research interests:
+The software service engineering and application (SSEA) laboratory was founded by Professor [Keqing He](https://baike.baidu.com/item/%E4%BD%95%E5%85%8B%E6%B8%85/10908095?fr=aladdin) and is currently led by Professor [Bing Li](http://cs.whu.edu.cn/teacherinfo.aspx?id=354). It is an open, collaborative laboratory in the [School of Computer Science](http://cs.whu.edu.cn/) at [Wuhan University](http://www.whu.edu.cn/). We mainly focus on the practice and application of software engineering, especially on the following research interests:
 
 - Service-oriented Software Engineering
 - Empirical Software Engineering
 - Domain-specific Application of Intelligent Software Services
 
 ## Members
+
+### Faculty
+
+- Professor: Keqing He, Bing Li, Peng Liang
+- Associate Professor: Jing Liu, Yangfan He, [Yutao Ma](https://mmyytt2000.github.io/)
+- Lecturer: Lulu He, [Chong Wang](http://cs.whu.edu.cn/teacherinfo.aspx?id=203), [Jian Wang](http://cs.whu.edu.cn/teacherinfo.aspx?id=202), Zaiwen Feng
+
+### External Members
+
 To add.
 
-## Research Funds
+## Funding
 
-Our studies have been supported by the National Basic Research Program of China (973 Program), the National High-tech R&D Program (863 Program), the National Key R&D Program of China, the Natural Science Foundation of China (NSFC), and many other research funds. Selected research funds include:
+Our studies have been supported by the National Basic Research Program of China (973 Program), the National High-tech R&D Program (863 Program), the National Key R&D Program of China, the Natural Science Foundation of China (NSFC), and many other research funds. Selected national funds include:
 
 - National Key R&D Program under Grant No. 2018YFB1402800, 2019/07~2022/06, Sub-project PI: Peng Liang
 - Major Program of NSFC under Grant No. 61832014, 2019/01~2023/12, Sub-project PI: Bing Li 
@@ -28,9 +37,9 @@ Our studies have been supported by the National Basic Research Program of China 
 We have received a few notable international and domestic awards or prizes, including
 
 - First Prize of Invention and Entrepreneurship, China Association of Inventions, 2018
-- Best Paper Award, International Conference on Software Engineering and Knowledge Engineering, 2016
+- Best Paper Award, [International Conference on Software Engineering and Knowledge Engineering](http://ksiresearchorg.ipage.com/seke/seke16.html), 2016
 - Certificate of Appreciation for the Development of International Standard [ISO/IEC 19763](http://metadata-stds.org/19763/index.html), ISO and IEC, 2015
-- First Prize of Scientific and Technological Progress, China Computer Federation, 2014
+- First Prize of Scientific and Technological Progress, [China Computer Federation](https://www.ccf.org.cn/awards/lnhjqk/2014/qb/), 2014
 - Second Prize of State Scientific and Technological Progress, P.R. China, 2009
 - Outstanding Doctoral Dissertation Award, Hubei Province, 2009
 - First Prize of Scientific and Technological Progress, Hubei Province, 2008, 2011, 2015
@@ -43,6 +52,12 @@ We have received a few notable international and domestic awards or prizes, incl
 1. Keqing He, Yangfan He, Chong Wang, Peng Liang, and Jin Liu. _Ontology-based Meta-modeling and its applications_. Beijing: Science Press, 2008.
 2. Keqing He, Rong Peng, Wei Liu, Jian Wang, and Bing Li. _Networked Software_. Beijing: Science Press, 2008.
 3. Keqing He, Yutao Ma, Jing Liu, Bing Li, and Rong Peng. _Software Network_. Beijing: Science Press, 2008.
+
+### Book Chapters
+
+1. Jian Wang, Zaiwen Feng, Jia Zhang, Patrick C. K. Hung, Keqing He, and Liang-Jie Zhang. [A Unified RGPS-Based Approach Supporting Service-Oriented Process Customization](https://link.springer.com/chapter/10.1007%2F978-1-4614-7518-7_26). In: Bouguettaya A., Sheng Q., Daniel F. (eds) [Web Services Foundations](https://link.springer.com/book/10.1007/978-1-4614-7518-7). Springer, pp. 657-682, 2014.
+2. Zengyang Li, Peng Liang, and Paris Avgeriou. [Architectural Debt Management in Value-Oriented Architecting](https://www.sciencedirect.com/science/article/pii/B978012410464800009X). In: Mistrík I., Bahsoon R., Kazman R., Zhang Y. (eds) [Economics-Driven Software Architecture](https://www.sciencedirect.com/book/9780124104648/economics-driven-software-architecture). Elsevier, pp. 183-204, 2014.
+3. Peng Liang, Anton Jansen, and Paris Avgeriou. [Collaborative Software Architecting Through Knowledge Sharing](https://link.springer.com/chapter/10.1007%2F978-3-642-10294-3_17). In: Mistrík I., Grundy J., Hoek A., Whitehead J. (eds) [Collaborative Software Engineering](https://link.springer.com/book/10.1007/978-3-642-10294-3). Springer, pp. 343-367, 2010.
 
 ### Technical Standards
 
@@ -108,10 +123,9 @@ We have received a few notable international and domestic awards or prizes, incl
 14. Bo Hu, Yutao Ma, Liang-Jie Zhang, Chunxiao Xing, Jun Zou, and Ping Xu. [A CCRA Based Mass Customization Development for Cloud Services](https://ieeexplore.ieee.org/document/6649760). In _Proceedings of the 2013 IEEE SCC_, pp. 705-712, 2013.
 15. Yutao Ma, Keqing He, Dehui Du, Jing Liu, and Yulan Yan. [A Complexity Metrics Set for Large-Scale Object-Oriented Software Systems](https://ieeexplore.ieee.org/document/4019967). In _Proceedings of the 6th IEEE CIT_, pp. 189:1-189:6, 2006. (**Best Paper Award**)
 
-
-### Contact
+## Contact
 
 Are you having trouble with Pages? Please [contact support](https://github.com/contact), and we’ll help you sort it out.
 
-
-`Last update: 2019-12-31.`
+---------
+<p align="right">Last updated: 2020-1-7.</p>
