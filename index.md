@@ -49,9 +49,9 @@ We have received a few notable international and domestic awards or prizes, incl
 
 ### Monographs
 
-1. Keqing He, Yangfan He, Chong Wang, Peng Liang, and Jin Liu. _Ontology-based Meta-modeling and its applications_. Beijing: Science Press, 2008.
-2. Keqing He, Rong Peng, Wei Liu, Jian Wang, and Bing Li. _Networked Software_. Beijing: Science Press, 2008.
-3. Keqing He, Yutao Ma, Jing Liu, Bing Li, and Rong Peng. _Software Network_. Beijing: Science Press, 2008.
+1. Keqing He, Yangfan He, Chong Wang, Peng Liang, and Jin Liu. _Ontology-based Meta-modeling and its applications_ (in Chinese). Beijing: Science Press, 2008.
+2. Keqing He, Rong Peng, Wei Liu, Jian Wang, and Bing Li. _Networked Software_ (in Chinese). Beijing: Science Press, 2008.
+3. Keqing He, Yutao Ma, Jing Liu, Bing Li, and Rong Peng. _Software Network_ (in Chinese). Beijing: Science Press, 2008.
 
 ### Book Chapters
 
